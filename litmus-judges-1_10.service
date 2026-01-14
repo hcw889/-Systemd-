@@ -1,7 +1,7 @@
 # 파일 경로 etc/systemd/system/
 
 # 해당 파일이 etc/systemd/system/ 아래에 존재하도록 했다면, 채점기가 꺼져있는걸 확인한 후 아래 명령어들을 수행해주세요.
-# 부팅 자동 실행 등록 (최초 1회)
+# 부팅 자동 실행 등록 (최초 1회) / 해당 명령어를 실행한다고 해서 채점기가 켜지지는 않습니다.
 # sudo systemctl enable litmus-judges-1_10
 
 # 등록 확인
